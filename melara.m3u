@@ -3,3 +3,5 @@
 
 #EXTINF:-1 tvg-id="24 Horas | El CHAVO DEL 8" tvg-name="24 HORAS | 31 MINUTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/31_minutos_logo.png" group-title="CANALES 24/7",24 HORAS | 31 MINUTOS
 http://xdgo.live:8080/live/97tyf7vbBH/30223.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | ALF" tvg-logo="" group-title="CANALES 24/7",24 HORAS | ALF
+http://xdgo.live:8080/live/97tyf7vbBH/23910.m3u8
